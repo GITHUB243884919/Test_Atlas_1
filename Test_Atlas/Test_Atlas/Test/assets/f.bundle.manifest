@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 3195609338
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c611ab28f89c5bc25e72b489e6f90bdc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 234d185ef25e4659214c411635d4afe0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/Cube_1.prefab
+- Assets/Prefabs/Cube_4.prefab
+- Assets/Prefabs/Cube_2.prefab
+- Assets/Prefabs/TwoCube.prefab
+Dependencies:
+- D:/fzy/work/code/Test_Atlas/Test_Atlas/Assets/StreamingAssets/m.bundle
+- D:/fzy/work/code/Test_Atlas/Test_Atlas/Assets/StreamingAssets/m6.bundle

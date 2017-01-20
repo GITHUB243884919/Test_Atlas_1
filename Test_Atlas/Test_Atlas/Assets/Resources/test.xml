@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Windows>
+	<Item name="LoginWin" script="LoginWin.cs"/>
+	<Item name="Loading" script="LoginWin.cs"/>
+</Windows>

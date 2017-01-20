@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 4129901173
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4d887dca282a93cc52c78747a8e467bb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 20d2a047ae4e99a3eaf853982df4d9aa
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Materials/Material_F6.mat
+Dependencies:
+- D:/fzy/work/code/Test_Atlas/Test_Atlas/Assets/StreamingAssets/t.bundle

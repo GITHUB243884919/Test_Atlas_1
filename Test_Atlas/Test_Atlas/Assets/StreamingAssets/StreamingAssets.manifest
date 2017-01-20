@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: test.assetbundle
+      Dependencies: {}
+    Info_1:
+      Name: uiprefabs.assetbundle
+      Dependencies:
+        Dependency_0: test.assetbundle
+    Info_2:
+      Name: m.bundle
+      Dependencies:
+        Dependency_0: t.bundle
+    Info_3:
+      Name: f.bundle
+      Dependencies:
+        Dependency_0: m.bundle
+        Dependency_1: m6.bundle
+    Info_4:
+      Name: t.bundle
+      Dependencies: {}
+    Info_5:
+      Name: m6.bundle
+      Dependencies:
+        Dependency_0: t.bundle
+    Info_6:
+      Name: f3.bundle
+      Dependencies:
+        Dependency_0: m.bundle
+    Info_7:
+      Name: bundleinfo/bundlelist.bundle
+      Dependencies: {}
+    Info_8:
+      Name: bundleinfo/assetlist.bundle
+      Dependencies: {}
